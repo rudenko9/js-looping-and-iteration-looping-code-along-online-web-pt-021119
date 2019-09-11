@@ -1,3 +1,1 @@
- function writeCards(["Ada", "Brendan", "Ali"], "birthday"); {
-   
- }
+writeCards(["Ada", "Brendan", "Ali"], "birthday");
