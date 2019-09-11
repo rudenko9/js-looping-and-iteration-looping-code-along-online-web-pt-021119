@@ -1,4 +1,4 @@
 function writeCards( ["Ada", "Brendan", "Ali"], "birthday") {
   
-  for (let )
+  for (let i = 0; i )
 }
