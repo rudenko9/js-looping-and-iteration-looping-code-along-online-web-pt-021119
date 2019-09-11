@@ -1,1 +1,3 @@
-writeCards(["Ada", "Brendan", "Ali"], "birthday");
+function writeCards( ["Ada", "Brendan", "Ali"], "birthday") {
+  
+}
